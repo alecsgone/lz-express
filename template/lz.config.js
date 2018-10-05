@@ -1,6 +1,6 @@
 module.exports = {
   scaffold: {
-    template: 'scaffold',
+    template: 'templates/scaffold',
     prompt: [
       {
         type: 'input',
