@@ -1,5 +1,5 @@
 {
-  "name": "<%= moduleName %>",
+  "name": "<%= _(moduleName).pluralize().capitalize() %>",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
